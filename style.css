@@ -1,0 +1,19 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    color: blue;
+    background-color: aliceblue;
+}
+h2{
+    color: aqua;
+    background-color: antiquewhite;
+}
+h3{
+    color: chartreuse;
+    background-color: azure;
+}
+h4{
+    color: blueviolet;
+    background-color: beige;
+}
